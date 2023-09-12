@@ -29,3 +29,11 @@ This project was created using:
 ```
 poetry init
 ```
+
+## Checking
+
+If the project was correctly installed this should work:
+
+```
+python.exe .\dummy_project\config.py
+```
